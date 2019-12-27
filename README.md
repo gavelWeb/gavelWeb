@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to gavelWeb
 
-You can use the [editor on GitHub](https://github.com/gavelWeb/gavelweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We develop high performance website using VUE and Node.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our latest projects
 
-### Markdown
+Here a list of latest projects (hosted working websites):
+- [burgerpandabc.com.ua (burger shop, language Ukrainian)](https://burgerpandabc.com.ua/)
+- [sushipandabc.com.ua (burger sushi, language Ukrainian)](https://sushipandabc.com.ua/)
+- [pizzapandabc.com.ua (VUE app pizza shop, language Ukrainian)](https://pizzapandabc.com.ua/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contributor list (Team)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gavelWeb/gavelweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. [igavelyuk](https://github.com/igavelyuk)
+2. [coffebeanspoem](https://github.com/coffebeanspoem)
+3. [serg-gavel](https://github.com/serg-gavel)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**+380666540976 (Ukraine)**
+- [instagram](https://www.instagram.com/igavelyuk/)
+- [facebook](https://www.facebook.com/igavelyuk/)
+- [twitter](https://www.twitter.com/igavelyuk/)
+- [twitch](https://www.twitch.tv/igavelyuk/)
+- [VK](https://www.vk.com/igavelyuk/)
